@@ -19,7 +19,7 @@ module.exports = {
 
   // ...
 
-  useAbout: false, // 👈
+  useAbout: true, // 👈
 
   // ...
 
