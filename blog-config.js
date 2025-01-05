@@ -4,10 +4,9 @@ module.exports = {
   author: "Changhwan",
   siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
   links: {
-    github: "https://github.com/ChanghwanK",
+    github: "https://github.com/ChanghwanK/",
     linkedIn: "https://linkedin.com",
     email: "devchanghwan@gmail.com",
-    resume: "https://hudi.blog",
   },
   useAbout: true,
   // See https://giscus.app/
