@@ -1,11 +1,11 @@
 module.exports = {
-  title: "CH Blog",
+  title: "Changhwan's Tech Blog",
   description: "Automate for Reliability, Because Simple Works.",
-  author: "Changhwan",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  author: "Changhwan Kim",
+  siteUrl: "https://tech.k10n.me",
   links: {
     github: "https://github.com/ChanghwanK/",
-    linkedIn: "https://linkedin.com",
+    linkedIn: "https://linkedin.com/in/changhwan-kim-767139219",
     email: "devchanghwan@gmail.com",
   },
   useAbout: true,
