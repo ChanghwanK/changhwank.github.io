@@ -1,12 +1,12 @@
 ---
-title: "Test Write 가이드"
-description: "How Write"
+title: "쿠버네티스트 환경에서 Pod 안정적으로 운영하기"
+description: "쿠버네티스 환경에서 서비스에서 Pod로 떠있는 Application들을 어떻게하면 안정적으로 관리할 수 있을지 정리해보았습니다."
 date: 2025-01-05
 update: 2025-01-05
 tags:
-  - Test
+  - Kubernetes
   - DevOps
-series: "Test Write"
+series: "쿠버네티스트 환경에서 서비스 안정적으로 운영하기"
 ---
 
 
