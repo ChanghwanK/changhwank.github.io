@@ -12,12 +12,12 @@ module.exports = {
   // See https://giscus.app/
   giscus: {
     repo: "ChanghwanK/ChanghwanK.github.io",
-    repoId: "R_kgDOL6D9qQ",
-    category: "General",
-    categoryId: "DIC_kwDOFguqvs4ChwGy",
+    repoId: "R_kgDONmHyzg",
+    category: "Comments",
+    categoryId: "DIC_kwDONmHyzs4CmuyR",
     mapping: "pathname",
     reactionsEnabled: "1",
     inputPosition: "bottom",
-    lang: "en",
+    lang: "ko",
   },
 }

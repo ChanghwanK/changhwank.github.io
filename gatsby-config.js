@@ -7,7 +7,7 @@ module.exports = {
     title,
     description,
     author,
-    siteUrl,
+    siteUrl: 'https://tech.k10n.me',
   },
   plugins: [
     `gatsby-plugin-catch-links`,
