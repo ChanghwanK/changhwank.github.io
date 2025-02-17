@@ -5,7 +5,7 @@ const BodyWrapper = styled.div`
   margin: 0 auto;
   padding-top: 80px;
   // max-width: 680px;
-  max-width: 750px;
+  max-width: 920px;
 `
 
 const Body = ({ children }) => {

@@ -4,7 +4,7 @@ const CommonStyle = css`
   code[class*="language-"],
   pre[class*="language-"] {
     margin-bottom: 24px;
-    font-size: 14.5px;
+    font-size: 16px;
     color: #ccc;
     background: none;
     font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
@@ -13,7 +13,7 @@ const CommonStyle = css`
     word-spacing: normal;
     word-break: normal;
     word-wrap: normal;
-    line-height: 1.5;
+    line-height: 2;
 
     -moz-tab-size: 4;
     -o-tab-size: 4;
